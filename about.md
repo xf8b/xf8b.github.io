@@ -6,7 +6,7 @@ permalink: /about/
 
 ## About me
 
-From my [**Github profile**](www.github.com/xf8b):
+From my [**Github profile**](https://www.github.com/xf8b):
 > Some person who makes Minecraft mods.  
 > Location: Earth  
 > Email: xf8b.inquiries@protonmail.com  
