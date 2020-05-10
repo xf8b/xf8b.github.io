@@ -3,7 +3,6 @@ layout: page
 title: About me
 permalink: /about/
 ---
-
 ## About me
 
 From my [**Github profile**](https://www.github.com/xf8b):
