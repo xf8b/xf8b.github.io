@@ -13,7 +13,7 @@ permalink: /creations/firstmod/
 * A mod that introduces new things. (v3 (Fabric))  
 
 It is **abandoned**.  
-### Link to repositories:
+### Links to repositories:
 * [**Github \(FirstMod v1\)**](https://github.com/xf8b/FirstMod-v1-Forge)
 * [**Github \(FirstMod v2\)**](https://github.com/xf8b/FirstMod-v2-Forge)
 * [**Github \(FirstMod v2 Remastered\)**](https://github.com/xf8b/FirstMod-v2-Remastered-Forge)
