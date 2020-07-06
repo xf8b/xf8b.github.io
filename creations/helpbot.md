@@ -5,7 +5,7 @@ permalink: /creations/helpbot/
 ---
 ## HelpBot
 ### Created: July of 2020
-![HelpBot](https://github.com/xf8b/xf8b.github.io/blob/master/images/helpbot.png?raw=true)
+![HelpBot](https://github.com/xf8b/xf8b.github.io/blob/master/images/helpbot.png?raw=true)  
 HelpBot is a bot that allows you to create and read help pages.    
 ### Repository:
 * [HelpBot Github Repository](https://github.com/xf8b/HelpBot)
