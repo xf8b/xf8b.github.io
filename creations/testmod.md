@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MoreFeatures
+title: testmod
 permalink: /creations/testmod/
 ---
 # testmod
