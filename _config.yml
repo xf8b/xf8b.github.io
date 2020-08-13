@@ -1,1 +1,14 @@
+title: xf8b's Website
+email: yesman58194@tutanota.com
+description: >- # this means to ignore newlines until "baseurl:"
+ A Github Pages website
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://xf8b.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: 
+github_username: xf8b
+
+# Build settings
+markdown: kramdown
 theme: jekyll-theme-cayman
+plugins:
+  - jekyll-feed
