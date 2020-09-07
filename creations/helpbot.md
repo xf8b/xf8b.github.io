@@ -8,6 +8,7 @@ permalink: /creations/helpbot/
 ![HelpBot](https://github.com/xf8b/xf8b.github.io/blob/master/images/helpbot.png?raw=true)    
 
 HelpBot is a bot that allows you to create and read help pages.    
+### Warning: The repository is archived!  
 ### Repository:
 * [HelpBot Github Repository](https://github.com/xf8b/HelpBot)
 <p align="center">
