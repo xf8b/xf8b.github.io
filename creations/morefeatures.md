@@ -7,6 +7,7 @@ permalink: /creations/morefeatures/
 ### Created: May of 2020
 ![](https://github.com/xf8b/MoreFeatures/blob/1.15.2/src/main/resources/logo.png?raw=true)  
 MoreFeatures is a Minecraft mod that enhances the Player Experience™.    
+### Warning: The Forge version has not seen any commits since July!   
 ### Links below:
 1. [**Curseforge**](https://www.curseforge.com/minecraft/mc-mods/morefeatures/) \(**Preferred**\)  
 2. [**Github**](https://github.com/xf8b/MoreFeatures)  
