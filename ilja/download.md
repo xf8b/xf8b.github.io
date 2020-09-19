@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Free Ilja Download 100% No Virus 
-permalink: /ilja/download
+permalink: /ilja/download/
 ---
 # ilja download yes  
 ![](https://cdn.discordapp.com/emojis/621380825807585280.png?v=1)
