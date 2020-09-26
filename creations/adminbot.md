@@ -10,6 +10,8 @@ permalink: /creations/adminbot/
 AdminBot is a simple bot, used for administration.  
 ### Repository:
 * [AdminBot Github Repository](https://github.com/xf8b/AdminBot)
+### Documentation:
+* [https://xf8b.github.io/AdminBot/docs/](https://xf8b.github.io/AdminBot/docs/)
 <p align="center">
   <strong> <a href="https://xf8b.github.io">Homepage</a> | <a href="https://xf8b.github.io/about/">About</a> | <a href="https://xf8b.github.io/creations/">Creations</a> </strong>
 </p>
