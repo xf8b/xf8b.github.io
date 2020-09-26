@@ -4,7 +4,7 @@ title: creations
 permalink: /creations/
 ---
 # creations
-* [adminbot](https://xf8b.github.io/creations/adminbot/)  
+* [xf8bot](https://xf8b.github.io/creations/xf8bot/)  
 * [helpbot](https://xf8b.github.io/creations/helpbot/)  
 * [morefeatures](https://xf8b.github.io/creations/morefeatures/)  
 * [firstmod](https://xf8b.github.io/creations/firstmod/)  
