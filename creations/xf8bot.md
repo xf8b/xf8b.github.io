@@ -7,7 +7,7 @@ permalink: /creations/xf8bot/
 ### Created: July of 2020
 ![xf8bot](https://github.com/xf8b/xf8b.github.io/blob/master/images/xf8bot.jpeg?raw=true)    
 
-Origionally known as AdminBot. (image below)  
+originally known as AdminBot. (image below)  
 ![AdminBot](https://github.com/xf8b/xf8b.github.io/blob/master/images/adminbot.png?raw=true)   
 xf8bot is a general purpose bot, designed to help you.
 ### Repository:
