@@ -32,4 +32,5 @@ PST (UTC-8:00) or PDT (UTC-7:00) depending on time of year.
 - unknownperson102424@pm.me on EMail
 
 ## Other things
+- [The source of this website is on GitHub.](https://github.com/xf8b/xf8b.github.io/)
 - Congratulations on reading to the end of this useless website.
