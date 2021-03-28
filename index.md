@@ -21,7 +21,7 @@ Mostly empty website, isn't it?
 - Python (minor)
 
 ## Location
-Approximately 149.6 kilometers from the Sun.
+Approximately 149.6 million kilometers from the Sun.
 
 ### Timezone
 PST (UTC-8:00) or PDT (UTC-7:00) depending on time of year.
