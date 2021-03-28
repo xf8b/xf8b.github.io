@@ -31,6 +31,11 @@ PST (UTC-8:00) or PDT (UTC-7:00) depending on time of year.
 - xf8b#9420 on Discord (I am no longer active on this account)
 - unknownperson102424@pm.me on EMail
 
+### GPG Key
+- [On this website](.well-known/pubkey.gpg)
+- [On GitHub](https://github.com/xf8b.gpg)
+- Fingerprint is B2DC86AB5265897F646BB93B07FA15D6A01859D7.
+
 ## Other things
 - [The source of this website is on GitHub.](https://github.com/xf8b/xf8b.github.io/)
 - Congratulations on reading to the end of this useless website.
